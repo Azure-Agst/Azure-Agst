@@ -29,7 +29,11 @@ if __name__ == "__main__":
 ## 📝 What I'm Up To Currently:
 
 <!--START_SECTION:feed-->
-Feed Goes Here
+* [Recovering a Botched Daybreak Update](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;hacking&#x2F;2022&#x2F;01&#x2F;28&#x2F;saving-a-botched-daybreak-update&#x2F;)
+* [Going into 2022…](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;meta&#x2F;2022&#x2F;01&#x2F;03&#x2F;about-the-new-year&#x2F;)
+* [Malware Analysis: Discord Code Injection](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;hacking&#x2F;2021&#x2F;12&#x2F;14&#x2F;reversing-discord-malware&#x2F;)
+* [The Flash Paper That Will Be Monster Hunter: Rise PC](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;gaming&#x2F;2021&#x2F;10&#x2F;13&#x2F;predicting-mh-rise-pc&#x2F;)
+* [WSL Localhost Fix](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;hacking&#x2F;2021&#x2F;10&#x2F;12&#x2F;wsl-ip-fix&#x2F;)
 <!--END_SECTION:feed-->
 
 <sup>Psst... This section is automatically generated using @JasonEtco's [RSS to README action](https://github.com/JasonEtco/rss-to-readme)!</sup>
