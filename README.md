@@ -29,11 +29,11 @@ if __name__ == "__main__":
 ## 📝 What I'm Up To Currently:
 
 <!--START_SECTION:feed-->
+* [Disqus Test Run Announcement](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;meta&#x2F;2022&#x2F;07&#x2F;04&#x2F;disqus-test-run&#x2F;)
 * [A C++ Dev’s Intro to Rust](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;hacking&#x2F;2022&#x2F;05&#x2F;16&#x2F;cpp-users-guide-to-rust&#x2F;)
 * [A Doubter’s Guide to Docker](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;hacking&#x2F;2022&#x2F;04&#x2F;10&#x2F;intro-to-docker&#x2F;)
 * [Reverse Engineering Lazy Monday Games’ Golf Gang](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;hacking&#x2F;2022&#x2F;02&#x2F;20&#x2F;reversing-golf-gang&#x2F;)
 * [Recovering a Botched Daybreak Update](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;hacking&#x2F;2022&#x2F;01&#x2F;28&#x2F;saving-a-botched-daybreak-update&#x2F;)
-* [Going into 2022…](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;meta&#x2F;2022&#x2F;01&#x2F;03&#x2F;about-the-new-year&#x2F;)
 <!--END_SECTION:feed-->
 
 <sup>Psst... This section is automatically generated using @JasonEtco's [RSS to README action](https://github.com/JasonEtco/rss-to-readme)!</sup>
