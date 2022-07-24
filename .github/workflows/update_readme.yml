@@ -12,6 +12,6 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://posts.azureagst.dev/feed.xml
+          feed-url: https://posts.azureagst.dev/rss/
           readme-section: feed
           branch: main
