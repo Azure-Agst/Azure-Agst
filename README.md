@@ -16,7 +16,7 @@ class FSUStudent:
         self.name = "Andrew Augustine"
         self.role = "Asst. Systems Administrator"
         self.degree = "Computer Science @ Florida State, c.o. 2023"
-        self.interests = ["Coding", "Reversing", "Homelabbing", "Gaming"]
+        self.interests = ["Coding", "Writing", "Homelabbing", "Gaming"]
 
     def say_hi(self):
         print("Hey! I hope you find some of my stuff interesting!")
@@ -40,16 +40,17 @@ if __name__ == "__main__":
 
 ## 🛠 Skills
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-MacOS-informational?style=flat&logo=macos&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Win10_w/_WSL-informational?style=flat&logo=windowsterminal&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Database-Sqlite3-informational?style=flat&logo=sqlite&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-DigitalOcean-informational?style=flat&logo=digitalocean&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-K3S-informational?style=flat&logo=k3s&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-DSM_7-informational?style=flat&logo=synology&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Github_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=6aa6f8)
