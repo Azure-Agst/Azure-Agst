@@ -29,11 +29,11 @@ if __name__ == "__main__":
 ## 📝 What I'm Up To Currently:
 
 <!--START_SECTION:feed-->
+* [Cryptography Crash Course](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;cryptography-crash-course&#x2F;)
 * [Maintenance Postmortem: systemctl-resolved](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;troubleshooting-resolved&#x2F;)
 * [The Homelabber Chronicles](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;tales-from-the-homelab&#x2F;)
 * [Announcing Ghost!](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;announcing-ghost&#x2F;)
 * [Disqus Test Run Announcement](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;disqus-test-run&#x2F;)
-* [A C++ Dev&#39;s Intro to Rust](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;cpp-users-guide-to-rust&#x2F;)
 <!--END_SECTION:feed-->
 
 <sup>Psst... This section is automatically generated using @JasonEtco's [RSS to README action](https://github.com/JasonEtco/rss-to-readme)!</sup>
