@@ -3,8 +3,8 @@ name: Update this repo's README
 on:
   workflow_dispatch:
   schedule:
-    # Once a week; Sunday at 8 AM
-    - cron: 0 8 * * 0
+    # Every Day at 8 AM
+    - cron: 0 8 * * *
 
 jobs:
   update:
