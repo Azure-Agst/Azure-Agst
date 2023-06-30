@@ -29,11 +29,11 @@ if __name__ == "__main__":
 ## 📝 What I'm Up To Currently:
 
 <!--START_SECTION:feed-->
+* [Fate Will Fall: A Final Fantasy XVI Review](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;fate-will-fall&#x2F;)
 * [Infra Update: DigitalOcean](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;digitalocean-migration&#x2F;)
 * [A Year in Review &#x2F; Going into 2023...](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;a-year-in-review-going-into-2023&#x2F;)
 * [Federation: The Future of the Internet?](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;federation&#x2F;)
 * [Steam Deck Review](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;steam-deck-review&#x2F;)
-* [Season of the Haunted Recap](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;season-of-the-haunted-recap&#x2F;)
 <!--END_SECTION:feed-->
 
 <sup>Psst... This section is automatically generated using @JasonEtco's [RSS to README action](https://github.com/JasonEtco/rss-to-readme)!</sup>
