@@ -10,19 +10,20 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class FSUStudent:
+class SoftwareDev:
 
     def __init__(self):
         self.name = "Andrew Augustine"
         self.role = "Asst. Systems Administrator"
-        self.degree = "Computer Science @ Florida State, c.o. 2023"
+        self.degree = "Florida State - Computer Science B.S."
         self.interests = ["Coding", "Writing", "Homelabbing", "Gaming"]
+        self.looking_for_job = True
 
     def say_hi(self):
         print("Hey! I hope you find some of my stuff interesting!")
 
 if __name__ == "__main__":
-    me = FSUStudent()
+    me = SoftwareDev()
     me.say_hi()
 ```
 
@@ -42,6 +43,7 @@ if __name__ == "__main__":
 
 ![](https://img.shields.io/badge/OS-Win10_w/_WSL-informational?style=flat&logo=windowsterminal&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
