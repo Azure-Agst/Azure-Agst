@@ -30,11 +30,11 @@ if __name__ == "__main__":
 ## 📝 What I'm Up To Currently:
 
 <!--START_SECTION:feed-->
+* [Hosting Without an IP: Tunnels](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;using-cloudflare-tunnels&#x2F;)
 * [Another Year In Review &#x2F; Going into 2024...](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;year-in-review-2023&#x2F;)
 * [Introducing the FFXIV Directory!](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;announcement&#x2F;)
 * [Scions and Sinners: A Final Fantasy XIV Reflective](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;final-fantasy-14&#x2F;)
 * [Fate Will Fall: A Final Fantasy XVI Review](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;fate-will-fall&#x2F;)
-* [Infra Update: DigitalOcean](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;digitalocean-migration&#x2F;)
 <!--END_SECTION:feed-->
 
 <sup>Psst... This section is automatically generated using @JasonEtco's [RSS to README action](https://github.com/JasonEtco/rss-to-readme)!</sup>
