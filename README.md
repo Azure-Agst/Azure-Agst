@@ -30,11 +30,11 @@ if __name__ == "__main__":
 ## 📝 What I'm Up To Currently:
 
 <!--START_SECTION:feed-->
+* [FFXIV: Dawntrail - First Impressions](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;dawntrail-first-impressions&#x2F;)
 * [From Pixels to Perfection: A Final Fantasy 7 Rebirth Review](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;from-pixels-to-perfection&#x2F;)
 * [Configuring Page Files on Linux](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;pagefiles&#x2F;)
 * [Reflecting on Yuzu &amp; Citra](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;yuzu-citra-shutdown&#x2F;)
 * [Balatro: Roguelite Poker](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;balatro&#x2F;)
-* [Arbiters of Fate: A Final Fantasy 7 Remake Intergrade Review](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;arbiters-of-fate&#x2F;)
 <!--END_SECTION:feed-->
 
 <sup>Psst... This section is automatically generated using @JasonEtco's [RSS to README action](https://github.com/JasonEtco/rss-to-readme)!</sup>
