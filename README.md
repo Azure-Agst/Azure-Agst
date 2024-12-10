@@ -2,7 +2,7 @@
 
 <p>
     <img src="https://img.shields.io/badge/Pronouns-He%2FHim-9cf" alt="Pronouns He/Him">
-    <img src="https://img.shields.io/keybase/pgp/Azure_Agst?color=lightgrey" alt="Keybase PGP">
+    <a href="https://keys.openpgp.org/search?q=me@azureagst.dev"><img src="https://img.shields.io/badge/PGP-A8F309DD68650E6D-lightgrey" alt="PGP Key"></a>
     <img src="https://komarev.com/ghpvc/?username=Azure-Agst" alt="Visitor Counter">
 </p>
 
