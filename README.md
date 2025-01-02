@@ -30,11 +30,11 @@ if __name__ == "__main__":
 ## 📝 What I'm Up To Currently:
 
 <!--START_SECTION:feed-->
+* [Going into 2025...](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;year-in-review-2024&#x2F;)
 * [Good Luck, America](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;good-luck-america&#x2F;)
 * [Credit Card Crash Course](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;credit-card-crash-course&#x2F;)
 * [Pokemon TCG Pocket: No Wallet? No Problem!](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;pokemon-tcg-pocket&#x2F;)
 * [FFXIV: Dawntrail - First Impressions](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;dawntrail-first-impressions&#x2F;)
-* [From Pixels to Perfection: A Final Fantasy 7 Rebirth Review](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;from-pixels-to-perfection&#x2F;)
 <!--END_SECTION:feed-->
 
 <sup>Psst... This section is automatically generated using @JasonEtco's [RSS to README action](https://github.com/JasonEtco/rss-to-readme)!</sup>
