@@ -30,11 +30,11 @@ if __name__ == "__main__":
 ## 📝 What I'm Up To Currently:
 
 <!--START_SECTION:feed-->
+* [Going into 2026...](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;year-in-review-2025&#x2F;)
 * [Framework 13 Review](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;framework-13-review&#x2F;)
 * [Democrats: Join Trans People or Die](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;democrats-join-or-die&#x2F;)
 * [Let&#39;s talk about the Switch 2...](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;lets-talk-about-the-switch-2&#x2F;)
 * [Going into 2025...](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;year-in-review-2024&#x2F;)
-* [Good Luck, America](https:&#x2F;&#x2F;posts.azureagst.dev&#x2F;good-luck-america&#x2F;)
 <!--END_SECTION:feed-->
 
 <sup>Psst... This section is automatically generated using @JasonEtco's [RSS to README action](https://github.com/JasonEtco/rss-to-readme)!</sup>
