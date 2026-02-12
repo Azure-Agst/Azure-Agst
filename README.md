@@ -10,20 +10,20 @@
 #!/usr/bin/python
 # -*- coding: utf-8 -*-
 
-class SoftwareDev:
+class Sysadmin:
 
     def __init__(self):
         self.name = "Andrew Augustine"
-        self.role = "Asst. Systems Administrator"
+        self.role = "IT Team @ MCCi"
         self.degree = "Florida State - Computer Science B.S."
-        self.interests = ["Coding", "Writing", "Homelabbing", "Gaming"]
-        self.looking_for_job = True
+        self.interests = ["IT", "Homelabbing", "Linux", "Blogging"]
+        self.looking_for_job = False # Thanks to all who reached out!
 
     def say_hi(self):
         print("Hey! I hope you find some of my stuff interesting!")
 
 if __name__ == "__main__":
-    me = SoftwareDev()
+    me = Sysadmin()
     me.say_hi()
 ```
 
@@ -41,18 +41,24 @@ if __name__ == "__main__":
 
 ## 🛠 Skills
 
-![](https://img.shields.io/badge/OS-Win10_w/_WSL-informational?style=flat&logo=windowsterminal&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Win11_w/_WSL-informational?style=flat&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/OS-Arch-informational?style=flat&logo=archlinux&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-C%23-informational?style=flat&logo=csharp&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Code-.NET-informational?style=flat&logo=dotnet&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Code-Rust-informational?style=flat&logo=rust&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Database-Sqlite3-informational?style=flat&logo=sqlite&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-DigitalOcean-informational?style=flat&logo=digitalocean&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Database-Sqlite3-informational?style=flat&logo=sqlite&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Database-MS_SQL-informational?style=flat&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Clouds-DigitalOcean-informational?style=flat&logo=digitalocean&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Clouds-AWS-informational?style=flat&logo=amazonaws&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Clouds-Azure-informational?style=flat&logo=azure&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Clouds-Cloudflare-informational?style=flat&logo=cloudflare&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=6aa6f8)
+![](https://img.shields.io/badge/Tools-Portainer-informational?style=flat&logo=portainer&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-K3S-informational?style=flat&logo=k3s&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-DSM_7-informational?style=flat&logo=synology&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-Github_Actions-informational?style=flat&logo=githubactions&logoColor=white&color=6aa6f8)
